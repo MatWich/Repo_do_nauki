@@ -28,3 +28,8 @@ I posz³o do repo :D na brancha tego, którego podaliœmy :D
 
 
 
+Fajna komenda :
+
+git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
+
+
